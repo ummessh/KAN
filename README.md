@@ -45,8 +45,8 @@ sudo apt-get install tesseract-ocr-eng tesseract-ocr-hin tesseract-ocr-mar tesse
 
 1. Clone the repository:
 ```bash
-[https://github.com/ummessh/KAN)](https://github.com/ummessh/KAN
-](https://github.com/ummessh/KAN)```
+https://github.com/ummessh/KAN
+```
 
 2. Install dependencies:
 ```bash
